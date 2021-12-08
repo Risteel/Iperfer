@@ -1,6 +1,6 @@
 # Iperfer
 ## Build
-* Type `make` to build
+* Type `make` to build.
 
 ## Run Server
 ```bash
