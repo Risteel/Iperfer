@@ -18,4 +18,4 @@
   
 ## What is Iperfer
 * Iperfer is a common tool used to measure network bandwidth like Iperf.
-* Run server mode to recieve packet and client mode to send packet, Iperfer will show the sending/receiving rate.
+* Start server mode to recieve packet and client mode to send packet, Iperfer will show the sending/receiving rate.
