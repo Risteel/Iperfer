@@ -1,12 +1,12 @@
 # Iperfer
 ## Build
-* Type `make` to build.
+* Using `make` to build.
 
-## Run Server
+## Server
 ```bash
 ./Iperfer -s -p <port>
 ```
-## Run Client
+## Client
 ```bash
 ./Iperfer -c -h <hostname> -p <port> -t <time>
 ```
