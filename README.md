@@ -12,7 +12,7 @@
 ```
 ## Argument
 * `hostname` can a hostname or an IP address
-* `port` argument is less than `1024` or greater than `65535`
+* `port` argument is greater than `1024` and less than `65535`
 * `time` is the duration in seconds for which data should be generated
   * the unit of time is second
   
